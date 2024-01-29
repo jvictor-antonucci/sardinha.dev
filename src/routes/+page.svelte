@@ -1,3 +1,12 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<main class="container">
+	<div class="grid" style="transform: translate(0, 250%)">
+		<div></div>
+		<div>
+			<h1 class="center">Work in Progress 🐟</h1>
+		</div>
+		<div></div>
+	</div>
+</main>
 
+<style>
+</style>
