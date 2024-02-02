@@ -1,12 +1,1 @@
-<main class="container">
-	<div class="grid" style="transform: translate(0, 250%)">
-		<div></div>
-		<div>
-			<h1 class="center">Work in Progress 🐟</h1>
-		</div>
-		<div></div>
-	</div>
-</main>
-
-<style>
-</style>
+<h1 class="grid h-screen place-content-center text-8xl">Work in Progress 🐟</h1>
