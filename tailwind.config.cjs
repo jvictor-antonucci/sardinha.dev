@@ -9,7 +9,7 @@ export default {
       },
     },
     fontFamily: {
-      work: ['Work Sans', 'sans-serif']
+      poppins: ['Poppins', 'sans-serif']
     }
   },
   plugins: [require('daisyui')],
