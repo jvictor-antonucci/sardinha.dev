@@ -1,3 +1,3 @@
 <div class="col-span-3 lg:col-span-4 lg:border-l">
-  <h1>Projetos</h1>
+  <h1>Sobre mim</h1>
 </div>
